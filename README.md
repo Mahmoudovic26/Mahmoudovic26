@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @Mahmoudovic26
-- 👀 I’m interested in machine learning and Embdedded systems
-- 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on making chatbot and smart car  
+- 👀 I’m interested in machine learning and Embdedded systems 
