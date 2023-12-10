@@ -22,6 +22,7 @@
 ```C
  printf("Hello ...  Iam Mahmoud Muhammad Bayoumi a final-year student specializing in communication engineering. ");
 ```
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Communication Engineering .\
