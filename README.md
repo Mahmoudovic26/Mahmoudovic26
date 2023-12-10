@@ -20,7 +20,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 ```C
- printf("Hello ...  Iam Mahmoud Muhammad Bayoumi a final-year student specializing in communication engineering. ");
+ printf("Hello ...  Iam Mahmoud Muhammad Bayoumi a final-year student of communication engineering. ");
 ```
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
