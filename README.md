@@ -114,7 +114,7 @@
 </p>
 
 
-<h1> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h1>
+<h1> <img src='https://raw.githubusercontent.com/Mahmoudovic26/Mahmoudovic26/main/Assets/handshake.gif' width="80"> Connect with me </h1>
 
 [![Discord](https://img.shields.io/badge/Discord-151A22?style=for-the-badge&logo=Discord)](https://discordapp.com/users/762007980530728971) 
 [![Telegram](https://img.shields.io/badge/Telegram-151A22?style=for-the-badge&logo=Telegram)](https://t.me/NEWMAMO) 
