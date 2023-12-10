@@ -19,8 +19,8 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-```python
- print("Hello ...  Iam Mahmoud Muhammad Bayoumi a final-year student specializing in communication engineering. ")
+```C
+ printf("Hello ...  Iam Mahmoud Muhammad Bayoumi a final-year student specializing in communication engineering. ");
 ```
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
