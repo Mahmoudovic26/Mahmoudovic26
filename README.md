@@ -36,7 +36,6 @@
 - [📄 My Certificates](https://github.com/Mahmoudovic26#--my-certificates--)
 - [🥸 Taken Courses](https://github.com/Mahmoudovic26#--taken-courses--)
 - [⚒️ Work Experience](https://github.com/Mahmoudovic26#-%EF%B8%8F-work-experience-)
-- [❔ What i want to learn ](https://github.com/Mahmoudovic26#-what-i-want-to-learn-)
 - [↗️ Github Stats ](https://github.com/Mahmoudovic26#-github-stats-)
 - [🤝 Connect with me](https://github.com/Mahmoudovic26n#-what-i-want-to-learn-)
 
