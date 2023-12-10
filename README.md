@@ -105,8 +105,10 @@
 
 <p align="center">
 <a href="https://github.com/Mahmoudovic26">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahmoudovic26&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mahmoudovic26&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahmoudovic26&theme=gotham&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mahmoudovic26&layout=compact&langs_count=8&theme=gotham&hide_border=true"/>
+    <img height="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoudovic26&theme=gotham&hide_border=true">
+
 </a>
 </p>
 
