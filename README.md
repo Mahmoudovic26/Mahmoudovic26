@@ -45,11 +45,13 @@
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</h1> 
 
 ### Programming Languages :
+![Ruby](https://img.shields.io/badge/-ruby-151A22?style=for-the-badge&logo=C)&nbsp;
 ![C](https://img.shields.io/badge/-C-151A22?style=for-the-badge&logo=C)&nbsp;
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-151A22?style=for-the-badge&logo=python)&nbsp;
 ![Matlab](https://img.shields.io/badge/-MATLAB-151A22?style=for-the-badge&logo=MATLAB)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-151A22?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
+
 
 ### Softwares & Tools :
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-151A22?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
