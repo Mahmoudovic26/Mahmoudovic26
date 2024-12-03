@@ -20,7 +20,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 ```C
- printf("Hello ...  Iam Mahmoud Muhammad Bayoumi a final-year student of communication engineering. ");
+ printf("Hello ...  Iam Mahmoud Muhammad Bayoumi a software engineer at Techurity (Spring Boot 3) ");
 ```
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -45,16 +45,18 @@
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</h1> 
 
 ### Programming Languages :
-![Ruby](https://img.shields.io/badge/-ruby-151A22?style=for-the-badge&logo=ruby)&nbsp;
-![C](https://img.shields.io/badge/-C-151A22?style=for-the-badge&logo=C)&nbsp;
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-151A22?style=for-the-badge&logo=python)&nbsp;
-![Matlab](https://img.shields.io/badge/-MATLAB-151A22?style=for-the-badge&logo=MATLAB)&nbsp;
-![C++](https://img.shields.io/badge/-C++-151A22?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
+<!-- ![Ruby](https://img.shields.io/badge/-ruby-151A22?style=for-the-badge&logo=ruby)&nbsp; -->
+![C](https://img.shields.io/badge/-C-151A22?style=for-the-badge&logo=c)&nbsp;
+![C++](https://img.shields.io/badge/-C++-151A22?style=for-the-badge&logo=cplusplus&logoColor=00599C)&nbsp;
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-151A22?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+<!-- ![Python](https://img.shields.io/badge/-Python-151A22?style=for-the-badge&logo=python)&nbsp; -->
+<!-- ![Matlab](https://img.shields.io/badge/-MATLAB-151A22?style=for-the-badge&logo=MATLAB)&nbsp; -->
 
 
 ### Softwares & Tools :
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-151A22?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-151A22?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Mplab](https://img.shields.io/badge/-Mplab-151A22?style=for-the-badge&logo=Mplab-ide)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-151A22?style=for-the-badge&logo=eclipse-ide)
 ![Notepad++](https://img.shields.io/badge/-Notepad++-151A22?style=for-the-badge&logo=Notepad++)
@@ -68,38 +70,59 @@
 ![tkinter](https://img.shields.io/badge/tkinter-151A22?style=for-the-badge&logo=tkinter)
 ![Custome-tkinter](https://img.shields.io/badge/Custome-tkinter-151A22?style=for-the-badge&logo=Custome-tkinter)
 
-### Data Base :
+### Database :
 
 ![MySQL](https://img.shields.io/badge/mysql-151A22?style=for-the-badge&logo=mysql) 
+![MariaDB](https://img.shields.io/badge/mariadb-151A22?style=for-the-badge&logo=mariadb) 
 
 
 ### OS :
 ![WINDOWS](https://img.shields.io/badge/Windows-151A22?style=for-the-badge&logo=Windows)
 ![LINUX](https://img.shields.io/badge/Linux-151A22?style=for-the-badge&logo=linux)
 
+<h1 style="text-align:center;">🥸 <span style="color: #4CAF50;">Taken Courses</span> 🥸</h1>
 
-<h1> 🥸 Taken Courses  </h1>
+<div style="font-family: Arial, sans-serif; line-height: 1.8; color: #333; margin: 20px;">
+  <ul style="list-style-type: '📘'; padding-left: 20px;">
+    <li><strong>Spring Boot 3</strong> by Chad Derby (<em>Udemy</em>)</li>
+    <li><strong>Online Diploma</strong> in PIC & ARM by Ahmed Abdel-Ghafar</li>
+    <li><strong>Python</strong> (YouTube)</li>
+    <li><strong>Machine Learning</strong> with Hesham Asem (<em>1000ML</em>)</li>
+    <li><strong>Git and GitHub</strong> via <a href="https://almdrasa.com" target="_blank" style="color: #2E86C1; text-decoration: none;">Almdrasa</a></li>
+  </ul>
 
-- Ahmed Abdel-Ghafar Online Diploma PIC & Arm
-- Python (Youtube)
-- Machine learning with Hesham Asem(1000ML)
-- Git and GitHub (https://almdrasa.com)
-- I have a good knowledge of the following :
-  - Machine learning
-  - Deep learning 
+  <h3 style="margin-top: 20px; color: #2E86C1;">📂 <span style="color: #16A085;">Additional Knowledge</span>:</h3>
+  <ul style="list-style-type: '💡'; padding-left: 20px;">
+    <li>Machine Learning</li>
+    <li>Deep Learning</li>
+  </ul>
+</div>
+
   
-<h1> ⚒️ Work Experience </h1>
+<h1 style="text-align:center;">⚒️ <span style="color: #4CAF50;">Work Experience</span> ⚒️</h1>
 
-### Technical :
-- FOTA (Project Manger)
-- Obstcale avidance (Project Manger)
-- small smart Home (Project Manger)
-- Self balancing robot (Project Manger)
-- Cooling system (Project Manger)
-- Curse increase (Project Manger)
+<div style="font-family: Arial, sans-serif; line-height: 1.8; color: #333; margin: 20px;">
+  <h2 style="color: #2E86C1;">🚀 Software Engineer</h2>
+  <h3 style="color: #D35400;">🏢 Techurity</h3>
+  <hr style="border: none; border-top: 2px solid #2E86C1; width: 50px; margin-left: 0;">
+  
+  <h3 style="margin-top: 20px;">📂 <span style="color: #16A085;">Technical Projects</span>:</h3>
+  <ul style="list-style-type: '✨'; padding-left: 20px;">
+    <li><strong>Scooter </strong> (Backend)</li>
+    <li><strong>E-Commerce</strong> (APIs)</li>
+    <li><strong>Library managment System</strong> (APIs)</li>
+    <li><strong>FOTA</li>
+    <li><strong>Obstacle Avoidance</strong></li>
+    <li><strong>Small Smart Home</strong></li>
+    <li><strong>Self-Balancing Robot</strong></li>
+    <li><strong>Cooling System</strong></li>
+    <li><strong>Curse Increase</strong></li>
+  </ul>
+</div>
 
 
 ### Non Technical :
+- Team leader
 - I was a technical member in many student activities
 - Presenter at Enactus 
 
