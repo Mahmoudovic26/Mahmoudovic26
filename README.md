@@ -100,11 +100,22 @@
 
   
 <h1 style="text-align:center;">⚒️ <span style="color: #4CAF50;">Work Experience</span> ⚒️</h1>
+<div style="font-family: Arial, sans-serif; color: #333; margin: 20px; line-height: 1.8;">
+  <div>
+    <span style="font-size: 20px; font-weight: bold; color: #2E86C1;">🚀 Software Engineer</span>
+    <div style="margin-left: 20px;">
+      <span style="font-size: 16px; color: #D35400;">🏢 Techurity</span>
+    </div>
+  </div>
 
-<div style="font-family: Arial, sans-serif; line-height: 1.8; color: #333; margin: 20px;">
-  <h2 style="color: #2E86C1;">🚀 Software Engineer</h2>
-  <h3 style="color: #D35400;">🏢 Techurity</h3>
-  <hr style="border: none; border-top: 2px solid #2E86C1; width: 50px; margin-left: 0;">
+  <div style="margin-top: 20px;">
+    <span style="font-size: 20px; font-weight: bold; color: #2E86C1;">🔧 Embedded Engineer</span>
+    <div style="margin-left: 20px;">
+      <span style="font-size: 16px; color: #D35400;">🏢 Labtronic</span>
+    </div>
+  </div>
+</div>
+
   
   <h3 style="margin-top: 20px;">📂 <span style="color: #16A085;">Technical Projects</span>:</h3>
   <ul style="list-style-type: '✨'; padding-left: 20px;">
